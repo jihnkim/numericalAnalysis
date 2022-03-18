@@ -30,8 +30,9 @@ ax.set_xlabel('x')
 ax.set_ylabel('y')
 
 ax.legend()
-plt.show()
 plt.savefig('assignment2_1.pdf')
+plt.show()
+
 
 # trouble shooting
 # 1. exp 를 그냥 사용하고 싶으면 e^1 즉 exp(1) 을 이용한다
