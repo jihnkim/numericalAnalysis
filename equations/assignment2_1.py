@@ -33,7 +33,6 @@ ax.legend()
 plt.savefig('assignment2_1.pdf')
 plt.show()
 
-
 # trouble shooting
 # 1. exp 를 그냥 사용하고 싶으면 e^1 즉 exp(1) 을 이용한다
 # 2. 함수에 스칼라값을 전달하여야 하는데 배열이 들어갈 경우 error 발생
